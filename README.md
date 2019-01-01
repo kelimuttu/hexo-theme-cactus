@@ -1,8 +1,8 @@
 # Cactus
 
-A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website.
+A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website. Based on the original [Cactus Dark](https://github.com/probberechts/hexo-theme-cactus) theme by [Pieter Robberechts](https://github.com/probberechts).
 
-:cactus: [Demo](https://probberechts.github.io/hexo-theme-cactus/)
+:cactus: [Demo](http://kelimuttu.github.io)
 
 ![screenshot](https://docs.google.com/uc?id=1K66bccwr4z9TgJev0AzCqbI7BxzVr7md)
 
@@ -85,7 +85,7 @@ theme_config:
 
 ```yml
 # themes/cactus/_config.yml
-colorscheme: dark
+colorscheme: bright
 ```
 
 This will override the default black colorscheme in `themes/cactus/_config.yml`.
