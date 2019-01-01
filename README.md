@@ -2,7 +2,7 @@
 
 A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website. Based on the original [Cactus Dark](https://github.com/probberechts/hexo-theme-cactus) theme by [Pieter Robberechts](https://github.com/probberechts).
 
-:cactus: [Demo](http://kelimuttu.github.io)
+:cactus: [Demo](https://kelimuttu.github.io)
 
 ![screenshot](https://docs.google.com/uc?id=1K66bccwr4z9TgJev0AzCqbI7BxzVr7md)
 
